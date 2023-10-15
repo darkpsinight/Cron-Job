@@ -1,0 +1,28 @@
+{
+  "name": "cronjob",
+  "version": "1.0.0",
+  "description": "CronJob tuto learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkpsinight/Cron-Job.git"
+  },
+  "keywords": [
+    "cronJob",
+    "nodeJs",
+    "node-schedule"
+  ],
+  "author": "darkpsinight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkpsinight/Cron-Job/issues"
+  },
+  "homepage": "https://github.com/darkpsinight/Cron-Job#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  }
+}
